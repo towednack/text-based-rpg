@@ -1,5 +1,4 @@
 <h1>Python Text-based RPG</h1>
-<img src="https://i.pinimg.com/originals/9d/9a/23/9d9a23a4d99de3a7fae1a34e5972a4b7.gif" alt="RPG Rain" width="400" height="100">
 <p>Welcome to a world of adventures made of text! Be careful, there are animals all around.</p>
 
 <ul>
