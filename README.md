@@ -14,9 +14,6 @@
 
 <img src="https://www.pngkit.com/png/full/2-28476_transparent-background-grass-gif.png" alt="RPG Grass" width="400" height="75">
 
-<h4>Official website:</h4>
-<iframe src="https://demo.wdmgame.tk" title="websiteframe"></iframe>
-
 <p><b>>> Project info</b></p>
 <p><sup>Project start: 22/10/2021</sup></p>
 <p><sup>Official website: <a href="https://demo.wdmgame.tk/updates.html" target="websiteframe">demo.wdmgame.tk</a></sup></p>
